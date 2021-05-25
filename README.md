@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Hesam
-- 👀 I’m interested in Web development 
-- 🌱 I’m currently learning Javascript and Study Computer science at Srbiau Univercity
+- 👀 I’m interested in Web development/ Game development 
+- 🌱 I’m currently learning Python and Study Computer science at Srbiau Univercity
